@@ -6,7 +6,7 @@ A clean and responsive weather web application built with HTML, CSS, and vanilla
 It fetches real-time weather data using the [OpenWeatherMap API](https://openweathermap.org/).
 
 Search any city to see current temperature, feels-like, humidity, wind speed, and weather conditions with nice icons.
-Includes dark/light mode toggle and °C/°F switchin.
+Includes dark/light mode toggle and °C/°F switching.
 
 # Features
 - Search weather by city name
